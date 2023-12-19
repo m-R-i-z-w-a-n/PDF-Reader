@@ -1,0 +1,2 @@
+ - Directly reads PDF files from firebase storage.
+ - Also has ability to download files for offline reading.
